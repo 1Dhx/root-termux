@@ -33,3 +33,4 @@ cd root-termux
 chmod +x *
 bash install.sh
 bash start.sh
+root
