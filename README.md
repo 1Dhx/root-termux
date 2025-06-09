@@ -28,7 +28,7 @@ Open Termux and run the following commands:
 
 ```bash
 pkg update && pkg upgrade -y
-git clone https://github.com/YourUsername/root-termux.git
+git clone https://github.com/1Dhx/root-termux.git
 cd root-termux
 chmod +x *
 bash install.sh
